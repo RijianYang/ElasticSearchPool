@@ -21,7 +21,7 @@
     </build>
 
     <properties>
-        <elasticsearch.version>6.5.0</elasticsearch.version>
+        <elasticsearch.version>6.8.15</elasticsearch.version>
         <commons-pool2.version>2.8.0</commons-pool2.version>
         <fastjson.version>1.2.4</fastjson.version>
     </properties>
